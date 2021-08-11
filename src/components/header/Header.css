@@ -1,0 +1,37 @@
+.title {
+    font-size: 7vw;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 35vh;
+    width: 100%;
+}
+
+.inputs {
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+}
+
+.search {
+    width: 43%;
+}
+
+.select {
+    width: 43%;
+}
+
+@media (max-width: 900px) {
+    .header {
+        height: 25vh;
+    }
+    .title {
+        font-size: 11vw;
+    }
+}
