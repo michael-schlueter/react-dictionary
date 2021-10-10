@@ -27,7 +27,7 @@
 The dependencies which are necessary to run this app can be found in the package.json file.
 
 1. Clone the repo
-2. Install NPM packages 
+2. Navigate to the project folder in the terminal and install the necessary NPM dependencies
 ```
 npm install
 ```
@@ -35,7 +35,7 @@ npm install
 ```
 npm start
 ```
-
+in the terminal
 
 ## Learnings
 - using MaterialUI to style components (Theme, ThemeSwitcher, ThemeProvider)
