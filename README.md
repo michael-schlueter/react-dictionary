@@ -1,4 +1,4 @@
-# News Application
+# Dictionary Application
 > This is a Dictionary App using ReactJS and Material UI. The app allows you to translate words into 12 different languages using the Dictionary API.
 
 
