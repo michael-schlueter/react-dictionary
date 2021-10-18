@@ -2,10 +2,12 @@
 > This is a Dictionary App using ReactJS and Material UI. The app allows you to translate words into 12 different languages using the Dictionary API.
 
 
+
 ## General Information
 - I undertook this project in order to familiarize myself with the use of Material UI to style components
 - In particular, I wanted to get to know how to implement a Light Mode / Dark Mode in a React app using Material UI
 - I also wanted to grasp the concept of progressive web app and understand what is necessary to turn an app into a PWA
+
 
 
 ## Technologies Used
@@ -14,13 +16,21 @@
 - Axios 0.21.1
 
 
+
 ## Features
 - Translating words into 12 different languages
 - Switch between a Light Mode and a Dark Mode
 
 
+
 ## Screenshots
 ![Example screenshot](https://i.ibb.co/fpkXsN8/word-hunt-screenshot.jpg)
+
+
+
+## Demo
+Live demo [_here_](https://practical-morse-116670.netlify.app/).
+
 
 
 ## Setup
@@ -36,6 +46,8 @@ npm install
 npm start
 ```
 in the terminal
+
+
 
 ## Learnings
 - using MaterialUI to style components (Theme, ThemeSwitcher, ThemeProvider)
